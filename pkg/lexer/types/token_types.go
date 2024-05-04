@@ -22,7 +22,7 @@ const (
 	OrderBy
 	GroupBy
 
-	BinaryOperator
+	BinaryOperator // going to have to make something to tell a * as all the columns or a * as multiplication
 	CloseParen
 	OpenParen
 	Comma
